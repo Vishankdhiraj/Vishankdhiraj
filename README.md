@@ -4,7 +4,7 @@
 🔭 About Me <br>
 - 🔍I'm Proficient in front -end and back-end development <br>
 - 🔧I’m currently exploring Reactive Web application <br>
--  Skilled in full-stack development with a focus on the MERN stack(MongoDB, Express js ,React ,Node js).
+-  Skilled in full-stack development with a focus on the MERN stack(MongoDB, Express js ,React js, Vue js ,Node js).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishankdhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="vishankdhiraj" /> </p>
 
